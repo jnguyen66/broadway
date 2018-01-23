@@ -1,0 +1,16 @@
+html{
+  text-align: center;
+
+}
+.header{
+  {background-image: url("./media/building.png")};
+}
+.horizontalLi {
+    float: left;
+    padding: 1px 3px;
+}
+ul{
+   list-style-type: none;
+   margin: 0;
+  padding: 0;
+}
