@@ -1,4 +1,4 @@
-html{
+.centerHero{
   text-align: center;
 }
 
@@ -39,16 +39,7 @@ p{
   font-family: Helvetica;
   font-size: 14px;
 }
-ul{
-   list-style-type: none;
-   margin: 0;
-  padding: 0;
-}
-li a {
-    font-family: Helvetica;
-    font-size: 18px;
-    color: white;
-}
+
 
 .footer {
   background-color: dimgray;
