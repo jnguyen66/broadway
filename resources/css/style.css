@@ -1,20 +1,23 @@
 html{
   text-align: center;
-
 }
+
 h1{
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
+
 .header{
   background-image: url("../media/building.png");
 }
-.horizontalLi {
-    float: left;
-    padding: 1px 3px;
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
 }
+
 h2{
   font-family: Helvetica;
   font-size: 32px;
@@ -46,8 +49,11 @@ li a {
     font-size: 18px;
     color: white;
 }
-.footer{
+
+.footer {
   background-color: dimgray;
+  font-size: 11px;
+  color: white;
 }
 
 #copyRight{
